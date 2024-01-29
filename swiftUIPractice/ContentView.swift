@@ -42,7 +42,8 @@ struct BookView: View {
                 Text(author)
                     .foregroundStyle(.gray)
             } )
-            .padding(10)
+//            .padding(10)
+            Spacer()
         }
     }
 }
